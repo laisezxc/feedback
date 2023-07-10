@@ -1,5 +1,5 @@
-# Welcome to GitHub Desktop!
+PHP Version 7.2.34
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Форма обратной связи.
+Имеется 4 ячейки для заполнения (Имя, телефон, email, текст сообщения).
+Кнопка "отправить" записывает значения в базу данных, если повторяется email, то кнопка пропадает и данные не записываются.
